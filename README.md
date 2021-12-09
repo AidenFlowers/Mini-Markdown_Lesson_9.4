@@ -25,5 +25,5 @@ Include a list of the tools used in the project:
 [BillGates](https://twitter.com/BillGates) - Twitter
 
 # Header - README Template
-![Github Logo] (<https://github.githubassets.com/images/modules/logos_page/Octocat.png> "Github logo - markdown")
+![Github Logo](<https://github.githubassets.com/images/modules/logos_page/Octocat.png> "Github logo - markdown")
 
