@@ -1,4 +1,6 @@
-# Header - README Template 
+# Header - README Template
+
+![Github Logo](<https://github.githubassets.com/images/modules/logos_page/Octocat.png> "Github logo - markdown")
 
 >##Table of Contents:
 * [About the Project](#about_the_project)
@@ -22,10 +24,8 @@ Include a list of the tools used in the project:
 <a class="anchor" id="contacts"></a>
 >## Contact Information
 [BillGates](https://www.linkedin.com/in/williamhgates/details/recent-activity/posts/)
-[BillGates](https://twitter.com/BillGates) - Twitter
+[@BillGates](https://twitter.com/BillGates) - Twitter
 
-# Header - README Template
 
-![Github Logo](<https://github.githubassets.com/images/modules/logos_page/Octocat.png> "Github logo - markdown")
 
 
