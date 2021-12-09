@@ -1,6 +1,6 @@
-# Header - README Template
+# Header - README Template 
 
->##Table of Contents 
+>##Table of Contents:
 * [About the Project](#about_the_project)
 * [Tools](#tools)
 * [Installation Instructions](#installation_instructions)
